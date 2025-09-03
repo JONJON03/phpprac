@@ -215,6 +215,104 @@
 
     //echo rand(5,10);
 
+    // $x = 10;
+    // define("_GREETING","Hello World!");
+
+    // // echo $x;
+    // // var_dump(_GREETING);
+
+    // const _GREETING2 = "HELLO WORLD!";
+    // echo _GREETING2;
+
+    // function test() {
+    //     echo _GREETING2;
+    // }
+
+    // test();
+
+    // echo $x;
+    // unset(_GREETING);
+    // echo _GREETING;
+
+    // + addition
+    // echo 10 + 100 + 20, "<br>";
+
+    // // - subtraction
+    // echo 10 - 100 - 20, "<br>";
+
+    // // addition and subtraction
+    // echo 10 - 20 + 100 - 10, "<br>";
+    
+    // // * multiplication
+    // echo 10 * 10 * 100, "<br>";
+
+    // // / division
+    // echo 10 / 5 / 2, "<br>";
+
+    // // multiplication and division
+    // echo 10 / 5 * 2, "<br>";
+
+    // // add and division
+    // echo 50 + 10 / 2, "<br>"; // multi/division before add/subtract
+
+    // // % modulus
+    // echo 7 % 3, "<br>";
+
+    // // ** exponential
+    // echo 10 ** 10, "<br>";
+
+    // ASSIGNMENT OPERATORS
+
+    //equals
+    //$x = 10;
+
+    //+=
+    //$x = $x + 10;
+    //$x += 10;
+
+    //-=
+    //$x = $x - 10;
+   //$x -= 10;
+
+   // /=
+   //$x = $x / 10;
+   //$x /= 10;
+
+   // *=
+   //$x = $x * 10;
+   //$x *= 10;
+    
+   //echo $x;
+
+   //Comparison
+   // == equals to = Similar Value
+    //    var_dump(10 == "10");
+    //    // === identical = similar value and data types
+    //    var_dump(10 === "10");
+    //    // != <> not equals to = not similar value
+    //    var_dump(10 != "10");
+    //    var_dump(10 <> "10");
+    //    // !== not identical = not similar value or not similar data types
+    //    var_dump(10 !== "10");
+    //    // < Less Than = check if first value is less than second value
+    //    var_dump(10 < "10");
+    //    // > Greater than = check if first value is greater than second value
+    //    var_dump(10 > "10");
+    //    // <= Less Than or Equals to
+    //    var_dump(10 <= 9);
+    //    // >= Greater Than ot Equals to
+    //    var_dump(10 >= "10");
+    //    // <=> spaceship
+    //    var_dump(1 <=> 2);
+
+    // pre-increment
+    // $x = 10;
+    // echo ++$x, "<br>";
+
+    // //post-increment
+    // $y = 10;
+    // echo --$x, "<br>";
+    // echo $y, "<br>";
 
 
     ?>
